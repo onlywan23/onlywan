@@ -28,7 +28,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=onlywan23&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/onlywan23/onlywan23/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+  <img src="https://raw.githubusercontent.com/onlywan23/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
 ###
