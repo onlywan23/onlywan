@@ -24,7 +24,7 @@ Everything can be fixed — except women always being right 😵‍💫
 
 ## 👋 About Me
 
-Hi, I'm a QA Manual Tester passionate about improving software quality and user experience.
+I'm a QA Manual Tester passionate about improving software quality and user experience.
 
 🔍 Skilled in:
 - Manual Testing
