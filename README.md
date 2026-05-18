@@ -14,6 +14,7 @@
 
 <h2 align="center">
 Everything can be fixed, but you can’t fix women always being right.
+</h2>
 
 ---
 
