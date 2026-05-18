@@ -10,8 +10,10 @@
 <!--      INTODUCTION             -->
 <!-- ============================ -->
 
-<h2>👋Hi, I'm Wan
-<h2 align="center"> Manual Testing | Web Testing | Mobile Testing | Bug Tracking | Test Automation Learner
+<h2>👋Hi, I'm Wan.
+QA Manual Tester | Bug Hunter 🐞
+Testing every click, one bug at a time.
+Everything can be fixed — except women always being right 😵‍💫
 
 ---
 
