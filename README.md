@@ -84,3 +84,15 @@ I'm a QA Manual Tester passionate about improving software quality and user expe
 
 ###
 ---
+
+<!-- ============================ -->
+<!--            PACMAN            -->
+<!-- ============================ -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onlywan23/onlywan23/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/onlywan23/onlywan23/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/onlywan23/onlywan23/pacman-output/pacman-contribution-graph.svg">
+</picture>
+
+###
