@@ -10,10 +10,11 @@
 <!--      INTODUCTION             -->
 <!-- ============================ -->
 
-### 👋Hi, I'm Wan
-QA Manual Tester | Bug Hunter 🐞.
-Testing every click, one bug at a time.
-Everything can be fixed, but you can’t fix women always being right 😵‍💫.
+# 👋Hi, I'm Wan
+
+QA Manual Tester | Bug Hunter 🐞
+Testing every click, one bug at a time
+Everything can be fixed, but you can’t fix women always being right 😵‍💫
 
 ---
 
