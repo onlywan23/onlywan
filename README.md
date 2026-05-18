@@ -1,4 +1,3 @@
-C:\Users\User\Downloads\ChatGPT Image May 18, 2026, 03_12_10 PM.png
 
 ---
 
