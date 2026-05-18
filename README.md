@@ -12,7 +12,7 @@
 
 # 👋 Hi, I'm Wan
 
-# **Everything can be fixed, but you can’t fix women always being right.**
+## **Everything can be fixed, but you can’t fix women always being right.**
 
 ---
 
