@@ -1,4 +1,4 @@
-👋Hi, I'm Wan
+<h2 align="center"><br>👋Hi, I'm Wan</h2>
 
 ---
 
