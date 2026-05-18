@@ -4,7 +4,6 @@
 
 <h2 align="center"> Manual Testing | Web Testing | Mobile Testing | Bug Tracking | Test Automation Learner</h2>
 
-###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
