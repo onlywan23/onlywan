@@ -12,7 +12,7 @@
 
 # 👋 Hi, I'm Wan
 
-“I can test for every edge case, every unexpected scenario, every hidden flaw—but my heart keeps returning 404: Lover Not Found.”
+## I can test for every edge case, every unexpected scenario, every hidden flaw—but my heart keeps returning 404: Lover Not Found.
 
 
 ---
