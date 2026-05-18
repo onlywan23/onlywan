@@ -19,6 +19,30 @@ Everything can be fixed — except women always being right 😵‍💫
 ---
 
 <!-- ============================ -->
+<!--        ABOUT ME              -->
+<!-- ============================ -->
+
+## 👋 About Me
+
+Hi, I'm a QA Manual Tester passionate about improving software quality and user experience.
+
+🔍 Skilled in:
+- Manual Testing
+- Functional Testing
+- UI/UX Testing
+- Regression Testing
+- Smoke Testing
+- Bug Reporting
+- Test Case Creation
+
+🧪 I enjoy finding hidden bugs and making applications more stable before release.
+
+⚡ Motto:
+“Every bug found today saves a problem tomorrow.”
+
+---
+
+<!-- ============================ -->
 <!--            TOOLS             -->
 <!-- ============================ -->
 
