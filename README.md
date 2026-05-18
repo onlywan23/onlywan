@@ -10,7 +10,7 @@
 <!--      INTODUCTION             -->
 <!-- ============================ -->
 
-👋Hi, I'm Wan
+<h2>👋Hi, I'm Wan
 <h2 align="center"> Manual Testing | Web Testing | Mobile Testing | Bug Tracking | Test Automation Learner
 
 ---
