@@ -12,9 +12,8 @@
 
 # 👋 Hi, I'm Wan
 
-<p align="center">
 Everything can be fixed, but you can’t fix women always being right.
-</p>
+
 
 ---
 
