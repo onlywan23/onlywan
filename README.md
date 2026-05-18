@@ -22,7 +22,7 @@ Everything can be fixed — except women always being right 😵‍💫
 <!--        ABOUT ME              -->
 <!-- ============================ -->
 
-## 👋 About Me
+## 🧠 About Me
 
 I'm a QA Manual Tester passionate about improving software quality and user experience.
 
