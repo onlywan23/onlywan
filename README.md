@@ -1,8 +1,13 @@
+C:\Users\User\Downloads\ChatGPT Image May 18, 2026, 03_12_10 PM.png
+
+---
+
 <h2 align="center">👋Hi, I'm Wan
 
 ---
 
 <h2 align="center"> Manual Testing | Web Testing | Mobile Testing | Bug Tracking | Test Automation Learner</h2>
+
 
 
 <div align="center">
