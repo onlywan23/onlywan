@@ -3,7 +3,7 @@
 <!-- ============================ -->
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/onlywan23/onlywan23/Photo/giphy.png](https://github.com/onlywan23/onlywan23/blob/Photo/giphy.gif)" width="500"/>
+  <img src="https://raw.githubusercontent.com/onlywan23/onlywan23/Photo/giphy.gif" width="500"/>
 </p>
 
 ---
