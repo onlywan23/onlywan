@@ -2,7 +2,7 @@
 <!--      BANNER SECTION          -->
 <!-- ============================ -->
 
-![image alt](https://raw.githubusercontent.com/onlywan23/onlywan23/c18deddfd47e5d478257bbc68dc1ac6af5cc0059/ChatGPT%20Image%20May%2018%2C%202026%2C%2003_26_54%20PM.png)
+![image alt]([https://raw.githubusercontent.com/onlywan23/onlywan23/c18deddfd47e5d478257bbc68dc1ac6af5cc0059/ChatGPT%20Image%20May%2018%2C%202026%2C%2003_26_54%20PM.png](https://github.com/onlywan23/onlywan23/blob/Photo/giphy.png))
 
 ---
 
