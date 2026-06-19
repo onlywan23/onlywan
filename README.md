@@ -2,7 +2,9 @@
 <!--      BANNER SECTION          -->
 <!-- ============================ -->
 
-![GIF](https://raw.githubusercontent.com/onlywan23/onlywan23/Photo/giphy.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/onlywan23/onlywan23/Photo/giphy.png" width="500"/>
+</p>
 
 ---
 
